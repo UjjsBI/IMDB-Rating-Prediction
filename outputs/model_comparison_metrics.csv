@@ -1,0 +1,5 @@
+Model,R2 Score
+Linear Regression,0.536
+Random Forest,0.653
+Gradient Boosting,0.685
+CatBoost,0.612
